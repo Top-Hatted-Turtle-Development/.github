@@ -4,6 +4,7 @@ Developing projects since 2024
 ## Our Projects
 ### Iris
 Iris is an AI-powered discord chat bot, with many features and options. Powered by teatree.chat.
+**[This is the old version of the bot. This is not owned by Green Development or related to it.]**
 
 ### GeminiCord
 The Iris before Iris. An AI-powered discord bot, for just a single channel.
